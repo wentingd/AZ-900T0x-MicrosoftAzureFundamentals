@@ -23,11 +23,11 @@ In this task, we will configure the **Require a tag on resources** policy and as
 
    ![Screenshot of Available Definitions pane with Require a tag on resources selected.](../images/1701.png)
    
-6.  On the **Parameters** tab, type in **Company : Contoso ** for the tag key/value pair name. Click **Review + create**, and then **Create**.
+6.  On the **Parameters** tab, type in **Company** for the tag key name. Click **Review + create**, and then **Create**.
 
     ![Screenshot of Assign policy pane with the Tag name filled out.](../images/1702.png)
 
-7. The **Require a tag on resources** policy assignment is now in place. When a resource is created, it must include a tag with the Company : Contoso key.
+7. The **Require a tag on resources** policy assignment is now in place. When a resource is created, it must include a tag with the Company key.
    **Note - you need to wait up to 30 minutes for the Policy to be applied.** 
 
    ![Screenshot of Policy - Assignments pane with the allowed locations assignment highlighted.](../images/1703.png)
